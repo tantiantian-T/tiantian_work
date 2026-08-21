@@ -1,0 +1,62 @@
+[
+  {
+    "i": 1,
+    "text": "甜品店一个泡芙三十八。",
+    "dur": 2.424,
+    "file": "assets/vo_parts/01.mp3"
+  },
+  {
+    "i": 2,
+    "text": "我自己做，才几块钱。",
+    "dur": 2.328,
+    "file": "assets/vo_parts/02.mp3"
+  },
+  {
+    "i": 3,
+    "text": "因为最难烤的这层脆皮壳，我们已经帮你做好了。",
+    "dur": 4.128,
+    "file": "assets/vo_parts/03.mp3"
+  },
+  {
+    "i": 4,
+    "text": "你听这声音——咔。",
+    "dur": 2.016,
+    "file": "assets/vo_parts/04.mp3"
+  },
+  {
+    "i": 5,
+    "text": "一掰全空，能塞超多奶油。",
+    "dur": 2.76,
+    "file": "assets/vo_parts/05.mp3"
+  },
+  {
+    "i": 6,
+    "text": "打开就能用。挤奶油，切水果，往上一摆。",
+    "dur": 4.32,
+    "file": "assets/vo_parts/06.mp3"
+  },
+  {
+    "i": 7,
+    "text": "芒果的、草莓的、青提的，想当甜品店老板就当。",
+    "dur": 4.296,
+    "file": "assets/vo_parts/07.mp3"
+  },
+  {
+    "i": 8,
+    "text": "壳够脆，心够空，样子够高级。",
+    "dur": 3.312,
+    "file": "assets/vo_parts/08.mp3"
+  },
+  {
+    "i": 9,
+    "text": "你负责好看，我负责把最难的壳烤给你。",
+    "dur": 3.696,
+    "file": "assets/vo_parts/09.mp3"
+  },
+  {
+    "i": 10,
+    "text": "想做的，评论区扣「要」，链接给你。",
+    "dur": 3.216,
+    "file": "assets/vo_parts/10.mp3"
+  }
+]
