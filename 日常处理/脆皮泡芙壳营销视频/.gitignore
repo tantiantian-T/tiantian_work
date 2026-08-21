@@ -1,0 +1,7 @@
+output/audio/
+output/clip_*.mp4
+output/picture_silent.mp4
+output/voiceover.wav
+output/subs.ass
+output/clips.txt
+__pycache__/
