@@ -1,0 +1,54 @@
+{
+  "title": "脆皮泡芙壳DIY带货短视频",
+  "format": "9:16竖屏",
+  "duration_target": "28s",
+  "voice": "zh-CN-XiaoyiNeural",
+  "segments": [
+    {
+      "id": 1,
+      "image": "scene1-shells-tray.png",
+      "text": "还在熬夜烤泡芙？亏大了！",
+      "subtitle": "还在熬夜烤泡芙？亏大了！",
+      "duration": 2.8,
+      "hook": true
+    },
+    {
+      "id": 2,
+      "image": "scene1-shells-tray.png",
+      "text": "商用级脆皮泡芙壳，到手直接开造！",
+      "subtitle": "商用级脆皮泡芙壳\n到手直接开造！",
+      "duration": 3.2
+    },
+    {
+      "id": 3,
+      "image": "scene2-hollow-shell.png",
+      "text": "你看这个壳，又薄又脆，空心超大，奶油随便塞！",
+      "subtitle": "又薄又脆 · 空心超大\n奶油随便塞！",
+      "duration": 4.0
+    },
+    {
+      "id": 4,
+      "image": "scene4-girl-diy.png",
+      "text": "挤点奶油，摆点水果，三分钟搞定ins风甜品！",
+      "subtitle": "挤奶油 + 摆水果\n三分钟ins风甜品",
+      "duration": 4.0
+    },
+    {
+      "id": 5,
+      "image": "scene3-finished-puffs.png",
+      "text": "芒果草莓蓝莓随便搭，摆摊、聚会、下午茶，颜值直接拉满！",
+      "subtitle": "摆摊·聚会·下午茶\n颜值直接拉满！",
+      "duration": 4.5
+    },
+    {
+      "id": 6,
+      "image": "scene3-finished-puffs.png",
+      "text": "脆皮泡芙壳批发零售，私信我，手慢无！",
+      "subtitle": "脆皮泡芙壳 批发零售\n私信我 手慢无！",
+      "duration": 3.5,
+      "cta": true
+    }
+  ],
+  "caption": "谁还自己做泡芙壳啊？！商用脆皮泡芙壳到手即用，三分钟DIY出ins风甜品🍓 摆摊聚会都够用！私信拿货 #泡芙壳 #脆皮泡芙 #DIY甜品 #烘焙创业 #摆摊甜品",
+  "hashtags": ["#泡芙壳", "#脆皮泡芙", "#DIY甜品", "#烘焙创业", "#摆摊甜品", "#ins风甜品"]
+}
